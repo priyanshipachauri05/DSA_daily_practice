@@ -6,4 +6,4 @@ For each problem, I tried to follow a structed approach. I begin with the brute-
 
 This methodology helped me improve my thinking methodology while encountering such type of problems.
 
-At the end of the solution file of each problem, I have also added some more problems that follow the same approaches. This helps me identify recurring patterns in DSA problems. 
+At the end of the solution file of some problems, I have also added some more problems that follow the same approaches. This helps me identify recurring patterns in DSA problems. 
